@@ -5,7 +5,9 @@
 ### MODIFICACION 3
 
 Este documento presenta un resumen del estado actual del abastecimiento en la **Administración Central**, incluyendo productos clave, cantidades disponibles, precios y observaciones generales.
+### MODIFICACION 4
 
+Este texto es un texto de prueba, para probar *negrita* **cursiva** y ***ambos***
 ---
 
 ## 📋 Productos en Inventario
